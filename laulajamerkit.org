@@ -1,5 +1,5 @@
 Laulajamerkki
-- TODO design, seuraavaan kokoukseen
+- design: Koistinen lähettää PDF:n raadille
 
 Suuri laulajamerkki
 - ohjelmisto
@@ -7,4 +7,5 @@ Suuri laulajamerkki
 
 2016:
 - kevätkonsertti
-   Ohjelmisto: seuraavassa kokouksessa
+    - Ohjelmisto:
+      - Biegga Luohte
